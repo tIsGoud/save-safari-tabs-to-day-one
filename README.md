@@ -3,6 +3,8 @@
 
 This AppleScript saves all tabs/URLs from all the Safari windows to a new entry in Day One 2.
 
+NOTE: I recently switched to Bear, a Bear-version is coming soon.
+
 The entry contains the tab names and URLs as clickable links.  
 URLs are grouped per browser window and seperated by a horizontal rule.   
 A "bookmarks" tag is added, the number of tabs and windows is displayed just below the title and in the title the name of the computer is used to identfy from which computer this entry originated.
